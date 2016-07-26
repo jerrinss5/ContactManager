@@ -1,0 +1,18 @@
+[
+  {
+    "Username": "test@test.com",
+    "Password": "$2a$10$zdSBL8loP/f3Az8y93lfV.g7puVp1oA1wcnGuFsUho3ShNH1.cbg2"
+  },
+  {
+    "Username": "zoro@zoro1.com",
+    "Password": "$2a$10$CGoyvEGRBu19VKH6nf059eExuFJkiqOksdIeBsC2N70/v07UAslq."
+  },
+  {
+    "Username": "asd@asd.com",
+    "Password": "$2a$10$vi81He2WOR9m8vwVf3vdzOiKK1poodkMhxWMsIlTjNDGBbvlFB.XK"
+  },
+  {
+    "Username": "luffy",
+    "Password": "$2a$10$T0vvS/Vay7hkT7x02saOm.O04.UHx2llsA4TcZXBy0k72vvHSNxum"
+  }
+]
