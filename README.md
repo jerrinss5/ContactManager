@@ -11,3 +11,5 @@ Make sure to update the path of json file in providers/ApplicationOAuthProvider.
 
 Users json contains the username and the password(hashed-Bcrypted).
 Contacts json contains the contact information.
+
+The main login page URL is http://<domainname>:<port>/login/SecurityInfo
